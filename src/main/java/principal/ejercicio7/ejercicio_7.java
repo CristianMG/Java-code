@@ -1,4 +1,4 @@
-package principal;
+package principal.ejercicio7;
 
 import clases.Atleta;
 import clases.ComparatorMarca;
@@ -22,7 +22,7 @@ import java.util.Scanner;
  *
  * Entidades -> Atletas, marcas, pruebas, eventos
  */
-public class principal {
+public class ejercicio_7 {
 
     public static Scanner sc = new Scanner(System.in);
 
